@@ -145,10 +145,10 @@ Workforce composition page covering satisfaction scores (Job, Environment, Work-
 ## Project Structure
 
 ```
-hr-analytics-powerbi/
+hr-attrition-powerbi-analysis/
 ├── README.md
-├── HR_Analytics_Dashboard.pbix
-├── HR_Analytics.csv
+├── Dashboard.pbix
+├── csv
 ├── screenshots/
 │   ├── key-insights.png
 │   ├── overview.png
